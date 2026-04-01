@@ -4,7 +4,7 @@
 
 A quantitative finance strategy that identifies and exploits pricing inefficiencies among baskets of correlated stocks. This project extends the classic pairs trading framework to multi-asset baskets across several sectors, using a rigorous three-stage statistical testing pipeline to validate each basket before trading.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seanherlihy101/ISMF_Sharpe_Quants/blob/main/Sharpe_Quants_Stat_Arb.ipynb)
+[![Link to Notebook in Google Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seanherlihy101/ISMF_Sharpe_Quants/blob/main/Sharpe_Quants_Stat_Arb.ipynb)
 
 ---
 
