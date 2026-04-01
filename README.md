@@ -45,13 +45,8 @@ Backtested on sector-based baskets from 2020–2026:
 
 ---
 
-## Installation
-
-```bash
-pip install numpy pandas statsmodels hurst matplotlib
-```
-
----
-
+## How to Run 
+- Enter the tickers of the basket you want to test
+- Hit run all, all the necessary packages will be downloaded 
 ---
 
