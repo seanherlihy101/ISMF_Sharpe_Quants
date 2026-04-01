@@ -53,20 +53,5 @@ pip install numpy pandas statsmodels hurst matplotlib
 
 ---
 
-## Project Structure
-
-```
-statistical-arbitrage/
-├── notebook.ipynb       # Main Colab notebook
-├── README.md
-└── requirements.txt
-```
-
 ---
 
-## References
-
-- Gatev, Goetzmann & Rouwenhorst (2006). *Pairs Trading: Performance of a Relative-Value Arbitrage Rule.* Review of Financial Studies.
-- Dickey & Fuller (1979). *Distribution of the Estimators for Autoregressive Time Series with a Unit Root.*
-- Krauss (2016). *Statistical Arbitrage Pairs Trading Strategies: Review and Outlook.*
-- Chan, E. (2011). [When cointegration of a pair breaks down.](https://epchan.blogspot.com/2011/06/when-cointegration-of-pair-breaks-down.html)
